@@ -64,7 +64,7 @@ I’m a <strong>Full-Stack Developer (Junior)</strong> from Egypt, passionate ab
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
 
 **Backend Development:**  
-[![My Skills](https://skillicons.dev/icons?i=flask,django,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,django,spring)](https://skillicons.dev)
 
 **Programming Languages:**  
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,javascript)](https://skillicons.dev)
