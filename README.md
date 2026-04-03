@@ -23,7 +23,7 @@
 </picture>
 <strong>Full-Stack Developer</strong>
 <br>
-I’m a <strong>Full-Stack Developer (Junior)</strong> from Egypt, passionate about building web applications and continuously improving my skills in both <strong>frontend</strong> and <strong>backend development</strong>. I focus on writing clean, maintainable code and learning by working on real projects.
+I’m a <strong>Full-Stack Developer (Fresh Graduate)</strong> from Egypt, passionate about building web applications and continuously improving my skills in both <strong>frontend</strong> and <strong>backend development</strong>. I focus on writing clean, maintainable code and learning by working on real projects.
 </p>
 
 ## About Me
