@@ -61,10 +61,10 @@ I’m a <strong>Full-Stack Developer (Fresh Graduate)</strong> from Egypt, passi
 ## Tech Stack
 
 **Frontend Development:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
 
 **Backend Development:**  
-[![My Skills](https://skillicons.dev/icons?i=flask,django,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 
 **Programming Languages:**  
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,javascript)](https://skillicons.dev)
